@@ -5,22 +5,27 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=Frontend+Developer;React+Enthusiast;UI%2FUX+Lover;Lifelong+Learner" alt="Typing SVG" />
 </div>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mohamedresk23&label=Profile%20Views&color=3B82F6&style=flat" alt="Profile views" />
+</p>
+
 <br>
 
 ## 👨‍💻 About Me
 
 As a dedicated **Frontend Developer** from Egypt, I specialize in building responsive, scalable, and user-friendly web applications. I focus on writing clean code and creating intuitive user interfaces that deliver exceptional digital experiences.
 
-- 🔭 I’m currently working on building advanced web applications using **React**.
-- 🌱 I’m constantly learning and exploring modern web technologies, libraries, and frameworks.
+- 🔭 I'm currently working on building advanced web applications using **React**.
+- 🌱 I'm constantly learning and exploring modern web technologies, libraries, and frameworks.
 - 💬 Ask me about **HTML, CSS, JavaScript, React & UI/UX principles**.
-- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/mohammed-resk-ba9b63216)** 
+- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/mohammed-resk-ba9b63216)**
 
 ---
 
 ## 🛠️ Tech Stack & Tools
 
 ### 🌐 Frontend Development
+
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap,tailwind,sass,vite,redux" />
@@ -28,6 +33,7 @@ As a dedicated **Frontend Developer** from Egypt, I specialize in building respo
 </p>
 
 ### 🧰 Tools, Languages & Platforms
+
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,firebase,cs,cpp" />
@@ -49,9 +55,19 @@ As a dedicated **Frontend Developer** from Egypt, I specialize in building respo
 
 <p align="center">
   <a href="https://github.com/mohamedresk23">
-    <img src="https://github-profile-trophy.vercel.app/?username=mohamedresk23&theme=tokyonight&margin-w=15" alt="Mohamed's Trophies" />
+    <img src="https://github-trophies.vercel.app/?username=mohamedresk23&theme=tokyonight&margin-w=15" alt="Mohamed's Trophies" width="100%" />
   </a>
 </p>
+
+<!--
+ملاحظة: السيرفر الرسمي github-profile-trophy.vercel.app بيتعطل أحياناً بسبب rate limiting.
+لو الصورة فوق مش شغالة، جرب أحد المرايا (mirrors) دي بدل الرابط:
+- https://github-profile-trophy-winning.vercel.app/?username=mohamedresk23
+- https://github-profile-trophy-kannan.vercel.app/?username=mohamedresk23
+- https://github-profile-trophy-fork-two.vercel.app/?username=mohamedresk23
+أو اعمل fork للريبو الأصلي ونزّله على Vercel الخاص بيك عشان مايتأثرش بالـ rate limit:
+https://github.com/ryo-ma/github-profile-trophy
+-->
 
 ---
 
@@ -74,5 +90,4 @@ As a dedicated **Frontend Developer** from Egypt, I specialize in building respo
   </a>
 </p>
 
-<br>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
